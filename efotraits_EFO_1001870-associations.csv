@@ -1,0 +1,166 @@
+﻿"Variant and risk allele",P-value,"P-value annotation",RAF,OR,Beta,CI,"Mapped gene","Reported trait",Trait(s),"Study accession",Location
+APOE-<b>?</b>,"1 x 10-49",,NR,'-,'-,'-,'-,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST006806,"Mapping not available"
+rs186542490-<b>A</b>,"8 x 10-6","(liability model)",0.006,'-,"0.6 unit increase",[0.35-0.85],"AL450327.1, AL121718.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,6:78644638
+rs186076999-<b>T</b>,"7 x 10-6","(liability model)",0.006,'-,"0.62 unit increase",[0.35-0.89],"AL512635.1, AL591222.3","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,9:20013543
+rs141521929-<b>T</b>,"4 x 10-6","(liability model)",0.005,'-,"0.62 unit increase",[0.37-0.87],"TUSC1, AL353730.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,9:25669750
+rs73865608-<b>A</b>,"1 x 10-6","(liability model)",0.004,'-,"0.63 unit increase",[0.38-0.88],AC097375.5,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,4:152043740
+rs184614511-<b>T</b>,"6 x 10-6","(liability model)",0.005,'-,"0.64 unit increase",[0.37-0.91],KSR2,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:117861676
+rs193129245-<b>A</b>,"1 x 10-6","(liability model)",0.005,'-,"0.67 unit increase",[0.4-0.94],"AL139231.1, RNU6-1060P","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,6:23318629
+rs150061627-<b>T</b>,"5 x 10-6","(liability model)",0.004,'-,"0.68 unit increase",[0.39-0.97],"MIR548Y, MDGA2","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,14:47737481
+rs190457471-<b>A</b>,"5 x 10-6","(liability model)",0.004,'-,"0.68 unit increase",[0.39-0.97],"OSER1-DT, GDAP1L1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,20:44233181
+rs141387448-<b>T</b>,"4 x 10-6","(liability model)",0.005,'-,"0.68 unit increase",[0.39-0.97],AL359546.1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,10:31115466
+rs117760708-<b>T</b>,"3 x 10-6","(liability model)",0.004,'-,"0.73 unit increase",[0.42-1.04],JPH3,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,16:87653662
+rs187423924-<b>A</b>,"4 x 10-6","(liability model)",0.004,'-,"0.74 unit increase",[0.43-1.05],AQP4-AS1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,18:26735845
+rs181634374-<b>T</b>,"8 x 10-6","(liability model)",0.003,'-,"0.77 unit increase",[0.44-1.1],"RPL23AP44, AC008568.2","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:121563422
+rs145228677-<b>C</b>,"7 x 10-6","(liability model)",0.004,'-,"0.79 unit increase",[0.44-1.14],"RPS18P12, AC022816.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,17:14641688
+rs188699384-<b>A</b>,"5 x 10-6","(liability model)",0.003,'-,"0.79 unit increase",[0.46-1.12],MIR924HG,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,18:39619094
+rs148003968-<b>A</b>,"5 x 10-6","(liability model)",0.003,'-,"0.81 unit increase",[0.46-1.16],TFEB,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,6:41696609
+rs185867524-<b>A</b>,"5 x 10-6","(liability model)",0.004,'-,"0.86 unit increase",[0.49-1.23],DNAH6,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:84597852
+rs117756856-<b>A</b>,"9 x 10-6","(liability model)",0.003,'-,"0.89 unit increase",[0.5-1.28],HDAC9,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:18212452
+rs184457411-<b>A</b>,"8 x 10-6","(liability model)",0.003,'-,"0.92 unit increase",[0.51-1.33],SHANK2,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,11:70820116
+rs180751169-<b>T</b>,"5 x 10-6","(liability model)",0.002,'-,"0.94 unit increase",[0.53-1.35],AC123767.1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,8:39576416
+rs188392327-<b>A</b>,"2 x 10-6","(liability model)",0.002,'-,"0.99 unit increase",[0.58-1.4],"UGT1A8, UGT1A10","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:233651485
+rs192232892-<b>T</b>,"3 x 10-6","(liability model)",0.002,'-,"0.99 unit increase",[0.58-1.4],TBXAS1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:139942249
+rs149839710-<b>A</b>,"9 x 10-6","(liability model)",0.002,'-,"1 unit increase",[0.55-1.45],"CNGB1, KIFC3","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,16:57869386
+rs150631144-<b>T</b>,"1 x 10-7","(liability model)",0.002,'-,"1.13 unit increase",[0.72-1.54],AC008825.1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:28577827
+rs144573434-<b>T</b>,"5 x 10-7","(liability model)",0.997,'-,"1.14 unit decrease",[0.69-1.59],"RPS20P25, AL138749.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,9:81079667
+rs181228315-<b>A</b>,"2 x 10-6","(liability model)",0.986,'-,"0.35 unit decrease",[0.21-0.49],TMEM94,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,17:75453551
+rs147285445-<b>T</b>,"4 x 10-6","(liability model)",0.998,'-,"1.03 unit decrease",[0.6-1.46],ANKRD22,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,10:88850285
+rs187295598-<b>T</b>,"6 x 10-6","(liability model)",0.988,'-,"0.34 unit decrease",[0.18-0.5],GPR180,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,13:94628579
+rs141976661-<b>A</b>,"5 x 10-7","(liability model)",0.997,'-,"0.88 unit decrease",[0.55-1.21],LINC00624,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:147483513
+rs77544685-<b>T</b>,"5 x 10-6","(liability model)",0.013,'-,"0.33 unit decrease",[0.19-0.47],"AP000797.1, LINC02151","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,11:116082456
+rs185170954-<b>A</b>,"9 x 10-6","(liability model)",0.997,'-,"0.82 unit decrease",[0.47-1.17],"SEMA3A, RAD23BP2","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:83870966
+rs75635567-<b>T</b>,"5 x 10-6","(liability model)",0.985,'-,"0.3 unit decrease",[0.16-0.44],"BAALC, BAALC-AS1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,8:103186989
+rs181696879-<b>A</b>,"4 x 10-7","(liability model)",0.994,'-,"0.67 unit decrease",[0.42-0.92],MCPH1-AS1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,8:6680850
+rs146322114-<b>A</b>,"2 x 10-6","(liability model)",0.029,'-,"0.25 unit decrease",[0.15-0.35],PCSK6,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,15:101501820
+rs12661302-<b>C</b>,"3 x 10-6","(liability model)",0.977,'-,"0.25 unit decrease",[0.15-0.35],"AL590608.1, AL591387.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,6:103817252
+rs186588455-<b>A</b>,"6 x 10-6","(liability model)",0.964,'-,"0.22 unit decrease",[0.12-0.32],"NPEPPSP1, MRPL45","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,17:38287606
+rs115443594-<b>T</b>,"4 x 10-6","(liability model)",0.966,'-,"0.22 unit decrease",[0.12-0.32],"AC023394.1, PRPF19P1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,18:65993723
+rs183291664-<b>T</b>,"3 x 10-6","(liability model)",0.996,'-,"0.58 unit decrease",[0.34-0.82],SCAPER,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,15:76713822
+rs145840463-<b>A</b>,"6 x 10-6","(liability model)",0.036,'-,"0.21 unit decrease",[0.11-0.31],CFAP74,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:1950293
+rs181299481-<b>A</b>,"4 x 10-6","(liability model)",0.994,'-,"0.58 unit decrease",[0.33-0.83],AL162414.1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,9:111149099
+rs10060040-<b>A</b>,"8 x 10-6","(liability model)",0.053,'-,"0.17 unit decrease",[0.092-0.248],"RNU6-679P, CTNND2","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:11930025
+rs62179067-<b>T</b>,"8 x 10-7","(liability model)",0.941,'-,"0.16 unit decrease",[0.1-0.22],"AC093911.1, SESTD1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:179270456
+rs56249755-<b>A</b>,"5 x 10-7","(liability model)",0.939,'-,"0.16 unit decrease",[0.1-0.22],FAM240B,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,9:38711009
+rs115317194-<b>T</b>,"2 x 10-6","(liability model)",0.067,'-,"0.15 unit decrease",[0.091-0.209],SLMAP,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,3:57830215
+rs75770912-<b>A</b>,"8 x 10-6","(liability model)",0.074,'-,"0.14 unit decrease",[0.081-0.199],AOX1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:200653321
+rs7698880-<b>C</b>,"2 x 10-6","(liability model)",0.124,'-,"0.14 unit decrease",[0.081-0.199],UNC93B4,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,4:4148701
+rs76816469-<b>T</b>,"1 x 10-6","(liability model)",0.101,'-,"0.12 unit decrease",[0.061-0.179],CDH1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,16:68759780
+rs61233297-<b>A</b>,"8 x 10-6","(liability model)",0.094,'-,"0.11 unit decrease",[0.051-0.169],IQGAP2,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:76567335
+rs853656-<b>T</b>,"4 x 10-6","(liability model)",0.167,'-,"0.09 unit decrease",[0.051-0.129],RASSF8,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:25965239
+rs181990369-<b>A</b>,"4 x 10-6","(liability model)",0.988,'-,"0.37 unit decrease",[0.21-0.53],"DLC1, AC106845.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,8:13182155
+rs145282773-<b>T</b>,"2 x 10-6","(liability model)",0.997,'-,"1.04 unit decrease",[0.61-1.47],"HMGA2-AS1, HMGA2","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:65859519
+rs147150305-<b>A</b>,"4 x 10-7","(liability model)",0.984,'-,"0.35 unit decrease",[0.21-0.49],PLCL1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:198252846
+rs186891871-<b>C</b>,"9 x 10-6","(liability model)",0.998,'-,"0.98 unit decrease",[0.55-1.41],"ADGRL2, AC117944.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:81589710
+rs142660142-<b>T</b>,"2 x 10-6","(liability model)",0.986,'-,"0.34 unit decrease",[0.2-0.48],'-,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,"Mapping not available"
+rs139638356-<b>T</b>,"2 x 10-6","(liability model)",0.996,'-,"0.83 unit decrease",[0.48-1.18],"AL138749.1, RPS20P25","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,9:80903300
+rs144167489-<b>T</b>,"2 x 10-6","(liability model)",0.017,'-,"0.32 unit decrease",[0.18-0.46],AL135926.1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:168874774
+rs115798104-<b>A</b>,"9 x 10-7","(liability model)",0.997,'-,"0.8 unit decrease",[0.49-1.11],MECOM,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,3:169273046
+rs146997164-<b>C</b>,"9 x 10-6","(liability model)",0.97,'-,"0.26 unit decrease",[0.14-0.38],"CCZ1B, OR7E39P","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:6830481
+rs138449900-<b>C</b>,"3 x 10-6","(liability model)",0.996,'-,"0.66 unit decrease",[0.39-0.93],"RN7SKP102, AC079154.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:123951121
+rs141846544-<b>T</b>,"9 x 10-6","(liability model)",0.996,'-,"0.65 unit decrease",[0.36-0.94],AC034114.2,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,8:80432793
+rs117022236-<b>A</b>,"4 x 10-6","(liability model)",0.995,'-,"0.63 unit decrease",[0.36-0.9],AKR7A3,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:19288434
+rs140587050-<b>C</b>,"5 x 10-6","(liability model)",0.995,'-,"0.63 unit decrease",[0.36-0.9],IRAK1BP1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,6:78889320
+rs114179644-<b>T</b>,"8 x 10-6","(liability model)",0.969,'-,"0.21 unit decrease",[0.11-0.31],"CPM, AC127894.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:69160349
+rs142076474-<b>A</b>,"4 x 10-6","(liability model)",0.994,'-,"0.58 unit decrease",[0.34-0.82],CEP63,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,3:134501479
+rs10075047-<b>A</b>,"5 x 10-6","(liability model)",0.032,'-,"0.21 unit decrease",[0.11-0.31],"CTNNA1P1, CCDC112","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:115357977
+rs191404864-<b>A</b>,"5 x 10-6","(liability model)",0.006,'-,"0.53 unit decrease",[0.29-0.77],"BICRA, AC010519.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,19:47635083
+rs112404845-<b>A</b>,"4 x 10-8","(liability model)",0.991,'-,"0.47 unit decrease",[0.29-0.65],AC005999.2,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:51510325
+rs183256737-<b>A</b>,"2 x 10-6","(liability model)",0.993,'-,"0.46 unit decrease",[0.26-0.66],SEC24B-AS1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,4:109373310
+rs79930850-<b>A</b>,"3 x 10-6","(liability model)",0.99,'-,"0.45 unit decrease",[0.25-0.65],"AP002004.1, CASP12","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,11:104874043
+rs143261188-<b>C</b>,"3 x 10-6","(liability model)",0.992,'-,"0.44 unit decrease",[0.24-0.64],TENM4,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,11:78938571
+rs115078773-<b>A</b>,"7 x 10-6","(liability model)",0.992,'-,"0.44 unit decrease",[0.24-0.64],TMCO4,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:19693032
+rs139195876-<b>A</b>,"2 x 10-6","(liability model)",0.99,'-,"0.43 unit decrease",[0.25-0.61],"NACAP6, LINC02150","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:16262936
+rs16961023-<b>C</b>,"5 x 10-8","(liability model)",0.985,'-,"0.41 unit decrease",[0.27-0.55],"AL137246.2, SLC10A2","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,13:103011595
+rs72842919-<b>A</b>,"5 x 10-7","(liability model)",0.985,'-,"0.38 unit decrease",[0.22-0.54],"RPS20P10, DYSF","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:71938176
+rs8077028-<b>T</b>,"1 x 10-6","(liability model)",0.751,'-,"0.09 unit decrease",[0.051-0.129],"TIMP2, CEP295NL","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,17:78891959
+rs2244526-<b>T</b>,"6 x 10-6","(liability model)",0.824,'-,"0.09 unit decrease",[0.051-0.129],SELP,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:169617708
+rs17022021-<b>T</b>,"8 x 10-6","(liability model)",0.843,'-,"0.09 unit decrease",[0.051-0.129],"RBMS3, AC098650.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,3:28837197
+rs1034435-<b>A</b>,"3 x 10-6","(liability model)",0.659,'-,"0.07 unit decrease",[0.031-0.109],TAFA5,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,22:48492443
+rs4760243-<b>A</b>,"8 x 10-6","(liability model)",0.566,'-,"0.07 unit decrease",[0.031-0.109],"LRIG3, AC020637.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:58828030
+rs7260181-<b>T</b>,"8 x 10-6","(liability model)",0.57,'-,"0.07 unit decrease",[0.031-0.109],"PPP5D1, AC093503.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,19:46595170
+rs12716755-<b>A</b>,"6 x 10-6","(liability model)",0.608,'-,"0.07 unit increase",[0.031-0.109],"USP10, KLHL36","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,16:84699678
+rs3820443-<b>T</b>,"1 x 10-6","(liability model)",0.611,'-,"0.07 unit increase",[0.031-0.109],PIFO,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:111350283
+rs846858-<b>A</b>,"3 x 10-6","(liability model)",0.272,'-,"0.08 unit increase",[0.041-0.119],IGSF23,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,19:44625528
+rs5771225-<b>T</b>,"5 x 10-6","(liability model)",0.217,'-,"0.09 unit increase",[0.051-0.129],SELENOO,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,22:50201044
+rs7313581-<b>T</b>,"8 x 10-7","(liability model)",0.218,'-,"0.09 unit increase",[0.051-0.129],"KRAS, AC087239.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:25269783
+rs2699450-<b>A</b>,"4 x 10-6","(liability model)",0.211,'-,"0.09 unit increase",[0.051-0.129],"RAPGEF5, CDCA7L","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:22018573
+rs6945197-<b>T</b>,"6 x 10-6","(liability model)",0.16,'-,"0.09 unit increase",[0.051-0.129],"ZP3P2, AC078845.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:136477062
+rs184992198-<b>T</b>,"2 x 10-6","(liability model)",0.816,'-,"0.11 unit increase",[0.071-0.149],"BNIP3P13, ZNF90","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,19:20064649
+rs115972394-<b>A</b>,"6 x 10-6","(liability model)",0.147,'-,"0.11 unit increase",[0.051-0.169],"AC092681.1, AC092681.2","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:149924921
+rs73215707-<b>T</b>,"8 x 10-6","(liability model)",0.908,'-,"0.12 unit increase",[0.061-0.179],AC008164.1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:16736702
+rs79926713-<b>T</b>,"8 x 10-6","(liability model)",0.082,'-,"0.13 unit increase",[0.071-0.189],SYNGAP1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,6:33427745
+rs73732514-<b>A</b>,"2 x 10-6","(liability model)",0.929,'-,"0.14 unit increase",[0.081-0.199],AC124852.1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:1983817
+rs62177277-<b>T</b>,"2 x 10-6","(liability model)",0.056,'-,"0.16 unit increase",[0.1-0.22],SESTD1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:179139721
+rs73681522-<b>A</b>,"4 x 10-6","(liability model)",0.051,'-,"0.16 unit increase",[0.082-0.238],AC011287.1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:13656708
+rs2234017-<b>C</b>,"7 x 10-6","(liability model)",0.056,'-,"0.17 unit increase",[0.092-0.248],TAS2R5,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:141791266
+rs147597631-<b>T</b>,"2 x 10-6","(liability model)",0.061,'-,"0.18 unit increase",[0.1-0.26],"TCF15, CSNK2A1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,20:566915
+rs145848414-<b>A</b>,"3 x 10-6","(liability model)",0.04,'-,"0.21 unit increase",[0.13-0.29],"SUMO2P6, AC108112.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:174587111
+rs147985478-<b>A</b>,"3 x 10-6","(liability model)",0.977,'-,"0.25 unit increase",[0.15-0.35],PRANCR,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:69997949
+rs116050881-<b>T</b>,"6 x 10-7","(liability model)",0.026,'-,"0.25 unit increase",[0.15-0.35],"AL671862.1, AC092265.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:29684252
+rs116530595-<b>T</b>,"9 x 10-6","(liability model)",0.018,'-,"0.26 unit increase",[0.14-0.38],"TXN, C9orf152","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,9:110213589
+rs147582129-<b>T</b>,"9 x 10-6","(liability model)",0.016,'-,"0.28 unit increase",[0.16-0.4],FAT3,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,11:92422052
+rs72998574-<b>T</b>,"2 x 10-6","(liability model)",0.022,'-,"0.28 unit increase",[0.16-0.4],"R3HDM2P2, AL590608.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,6:103969846
+rs144471255-<b>A</b>,"3 x 10-6","(liability model)",0.018,'-,"0.31 unit increase",[0.17-0.45],RDX,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,11:110058188
+rs144216026-<b>A</b>,"8 x 10-6","(liability model)",0.017,'-,"0.31 unit increase",[0.17-0.45],ABCA8,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,17:68920354
+rs137869973-<b>T</b>,"2 x 10-7","(liability model)",0.025,'-,"0.31 unit increase",[0.19-0.43],"AC068672.2, KCTD9P6","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,8:31236084
+rs72840936-<b>C</b>,"5 x 10-7","(liability model)",0.018,'-,"0.32 unit increase",[0.2-0.44],STEAP3-AS1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:119266116
+rs148587130-<b>T</b>,"7 x 10-6","(liability model)",0.013,'-,"0.36 unit increase",[0.2-0.52],NEK10,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,3:27236975
+rs185126971-<b>A</b>,"8 x 10-6","(liability model)",0.011,'-,"0.37 unit increase",[0.21-0.53],"ERO1A, PSMC6","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,14:52702250
+rs73239797-<b>A</b>,"2 x 10-6","(liability model)",0.013,'-,"0.39 unit increase",[0.23-0.55],"SEM1, RNU7-188P","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:96446404
+rs113884973-<b>C</b>,"8 x 10-6","(liability model)",0.008,'-,"0.43 unit increase",[0.23-0.63],"AC069157.2, AC010967.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,2:53256902
+rs182972826-<b>T</b>,"4 x 10-6","(liability model)",0.007,'-,"0.44 unit increase",[0.24-0.64],SEC24B,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,4:109534350
+rs112920270-<b>A</b>,"9 x 10-6","(liability model)",0.008,'-,"0.45 unit increase",[0.25-0.65],"RNA5SP228, AC003087.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,7:23931916
+rs141104697-<b>A</b>,"8 x 10-6","(liability model)",0.007,'-,"0.46 unit increase",[0.26-0.66],GTF2H3,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:123635804
+rs144464515-<b>C</b>,"2 x 10-6","(liability model)",0.01,'-,"0.46 unit increase",[0.26-0.66],"ZNRF4, PTPRS","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,19:5417482
+rs191707442-<b>T</b>,"6 x 10-6","(liability model)",0.008,'-,"0.47 unit increase",[0.27-0.67],"AC022784.2, AC022784.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,8:9182000
+rs150269952-<b>T</b>,"6 x 10-6","(liability model)",0.009,'-,"0.48 unit increase",[0.26-0.7],RASSF5,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:206526352
+rs144998240-<b>A</b>,"8 x 10-7","(liability model)",0.006,'-,"0.5 unit increase",[0.3-0.7],COL25A1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,4:109251730
+rs138543081-<b>T</b>,"1 x 10-6","(liability model)",0.009,'-,"0.5 unit increase",[0.3-0.7],AL807761.4,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,9:107043881
+rs192013290-<b>T</b>,"1 x 10-6","(liability model)",0.006,'-,"0.51 unit increase",[0.29-0.73],HMCN1,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,1:185780742
+rs144077517-<b>A</b>,"2 x 10-6","(liability model)",0.005,'-,"0.54 unit increase",[0.32-0.76],SCAPER,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,15:76352686
+rs142835438-<b>A</b>,"8 x 10-7","(liability model)",0.007,'-,"0.54 unit increase",[0.32-0.76],"AC009812.4, RPSAP47","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,8:80555470
+rs184695264-<b>T</b>,"4 x 10-6","(liability model)",0.005,'-,"0.58 unit increase",[0.33-0.83],"AC022513.1, LINC01479","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,12:67780260
+rs921390-<b>T</b>,"1 x 10-6","(liability model)",0.005,'-,"0.58 unit increase",[0.34-0.82],"AC106799.2, AC106799.1","Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,5:4515659
+rs150291119-<b>A</b>,"3 x 10-6","(liability model)",0.005,'-,"0.6 unit increase",[0.35-0.85],NAALADL2,"Late-onset Alzheimer's disease","late-onset Alzheimers disease",GCST003815,3:174769522
+rs1060743-<b>?</b>,"5 x 10-8",,NR,1.1066935,'-,'-,BIN1,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,2:127068957
+rs1532278-<b>?</b>,"6 x 10-10",,NR,1.1177499,'-,'-,CLU,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,8:27608798
+rs3865444-<b>?</b>,"2 x 10-6",,NR,1.0942049,'-,'-,"CD33, SIGLEC22P","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,19:51224706
+rs6656401-<b>?</b>,"7 x 10-11",,NR,1.1725225,'-,'-,CR1,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,1:207518704
+rs7232-<b>?</b>,"6 x 10-7",,NR,1.0942651,'-,'-,MS4A6A,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,11:60173126
+rs7412-<b>?</b>,"3 x 10-105",,NR,2.3065467,'-,'-,APOE,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,19:44908822
+rs143332484-<b>T</b>,"2 x 10-14",,NR,1.6665556,'-,[1.46-1.90],TREM2,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,6:41161469
+rs616338-<b>T</b>,"5 x 10-10",,NR,1.4296066,'-,[1.3-1.6],ABI3,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,17:49219935
+rs72824905-<b>?</b>,"5 x 10-10",,NR,1.4756235,'-,[1.25-1.67],PLCG2,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,16:81908423
+rs75932628-<b>T</b>,"5 x 10-24",,NR,2.4557426,'-,[2.06-2.92],TREM2,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,6:41161514
+rs78541046-<b>?</b>,"2 x 10-6",(adjusted),NR,6.2228026,'-,[2.94-12.5],RHBDF1,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,16:63029
+rs11828907-<b>C</b>,"2 x 10-7",,NR,4.4935546,'-,[2.55-7.92],AHNAK,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,11:62521506
+rs139967528-<b>G</b>,"6 x 10-10",,NR,6.119662,'-,[3.45-10.9],ATP5F1C,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,10:7799848
+rs201850688-<b>G</b>,"9 x 10-6",,NR,1.804889,'-,[1.39-2.34],BSG,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,19:572671
+rs201879533-<b>?</b>,"4 x 10-6",(adjusted),NR,5.6306844,'-,[2.7-12.5],THSD4,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,15:71746912
+rs56009889-<b>?</b>,"6 x 10-7",,NR,3.0578122,'-,[1.96-4.76],"ATM, C11orf65","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,11:108326169
+rs148619105-<b>?</b>,"1 x 10-7",,NR,1.8587084,'-,[1.47-2.33],TECTA,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST005549,11:121146015
+rs7185636-<b>T</b>,"2 x 10-8",,0.8200000000000001,1.0869565,'-,[1.05-1.12],IQCK,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,16:19796841
+rs593742-<b>A</b>,"7 x 10-9",,0.7050000000000001,1.0752687,'-,[1.05-1.1],AC090515.7,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,15:58753575
+rs2830500-<b>C</b>,"3 x 10-8",,0.692,1.0752687,'-,[1.04-1.1],"CYYR1, ADAMTS1","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,21:26784537
+rs4735340-<b>T</b>,"9 x 10-8",,0.524,1.0638298,'-,[1.04-1.09],NDUFAF6,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,8:94964023
+rs10467994-<b>T</b>,"4 x 10-7",,0.667,1.0638298,'-,[1.04-1.09],SPPL2A,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,15:50716490
+rs2632516-<b>G</b>,"5 x 10-8",,0.56,1.0638298,'-,[1.04-1.1],"TSPOAP1-AS1, AC004687.1","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,17:58331728
+rs7295246-<b>G</b>,"4 x 10-7",,0.413,1.06,'-,[1.04-1.08],"AC090525.3, AC090525.2","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,12:43573874
+rs7920721-<b>G</b>,"2 x 10-11",,0.39,1.08,'-,[1.06-1.11],"AL512631.1, AL512631.2","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,10:11678309
+rs138190086-<b>A</b>,"5 x 10-9",,0.02,1.3,'-,[1.19-1.42],"PPIAP55, AC005828.5","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,17:63460787
+rs114812713-<b>C</b>,"2 x 10-13",,0.03,1.32,'-,[1.22-1.42],OARD1,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,6:41066261
+rs62039712-<b>A</b>,"4 x 10-8",,0.116,1.16,'-,[1.10-1.23],"RNA5SP431, AC084064.1","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,16:79321960
+rs35868327-<b>T</b>,"3 x 10-7",,0.987,1.4705882,'-,[1.27-1.69],"AC108114.1, AC027329.1","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,5:53369400
+rs71618613-<b>A</b>,"3 x 10-7",,0.99,1.4084507,'-,[1.23-1.59],LINC02109,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,5:29005878
+rs190094306-<b>?</b>,"4 x 10-6",,NR,1.62,'-,[1.32-1.99],"NHLRC3, AL354809.1","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,13:39050685
+rs187857322-<b>?</b>,"2 x 10-6",,NR,1.63,'-,[1.33-2.00],"OR7E136P, OR7E59P","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,7:6869229
+rs192326911-<b>?</b>,"3 x 10-6",,NR,1.65,'-,[1.34-2.04],"AC111149.1, STAU2-AS1","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,8:73378103
+rs192098867-<b>?</b>,"7 x 10-6",,NR,1.2987013,'-,[1.16-1.47],TRPM1,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,15:31149558
+rs35833468-<b>?</b>,"3 x 10-6",,NR,1.0869565,'-,[1.04-1.12],EGLN3,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,14:33974720
+rs190217640-<b>?</b>,"7 x 10-6",,NR,1.4492754,'-,[1.23-1.69],NEGR1,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,1:71755908
+rs19213255-<b>?</b>,"4 x 10-6",,NR,1.3333333,'-,[1.18-1.49],'-,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,"Mapping not available"
+rs182921547-<b>?</b>,"8 x 10-7",,NR,1.38,'-,[1.21-1.56],"AC116611.1, AC017013.1","Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,4:32832588
+rs8111708-<b>?</b>,"2 x 10-6",,NR,1.06,'-,[1.03-1.09],ELL,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,19:18448066
+rs11038990-<b>?</b>,"6 x 10-6",,NR,1.09,'-,[1.05-1.13],CKAP5,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,11:46783211
+rs6806784-<b>?</b>,"4 x 10-6",,NR,1.53,'-,[1.28-1.83],SENP7,"Alzheimer's disease (late onset)","late-onset Alzheimers disease",GCST007511,3:101508591
